@@ -1,7 +1,7 @@
 {
   "name": "redux-toolkit-new",
   "version": "0.1.0",
-  "homepage":"https://rathore-amit.github.io/redux-toolkit-new"
+ "homepage": "https://rathore-amit.github.io/redux-toolkit-new",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
